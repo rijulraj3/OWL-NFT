@@ -44,12 +44,4 @@ contract OwlNFT is ERC721, ERC721URIStorage, Ownable {
     }
 }
 
-{
-  "name": "Midnight Owl #1",
-  "description": "A rare nocturnal owl with glowing eyes.",
-  "image": "ipfs://<hash>/owl.png",
-  "attributes": [
-    {"trait_type": "Species", "value": "Barn Owl"},
-    {"trait_type": "Rarity", "value": "Rare"}
-  ]
-}
+
